@@ -16,7 +16,7 @@
     "@vx/scale": "0.0.196",
     "@vx/tooltip": "0.0.196",
     "apisauce": "^1.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3-array": "^2.4.0",
     "d3-time-format": "^2.2.3",
     "headroom.js": "^0.11.0",
